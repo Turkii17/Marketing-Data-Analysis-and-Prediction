@@ -1,2 +1,3 @@
-# Personal_repo
+# MultipleLinearRegression_MarketingData
+
 MultipleLinearRegressionProject_MarketingData
